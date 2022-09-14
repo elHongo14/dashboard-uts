@@ -30,7 +30,7 @@ body{
     transition: 0.5s;
     padding-top: 30px;
 }
-.sidenav {
+.sidenav a {
     color: #818181;
     text-decoration: none;
     font-size: 20px;
